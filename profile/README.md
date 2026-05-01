@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile
 
-Hey! My name is **Darwin** 🧬
+Hey! My name is **Bidulus** 🧬
 
 ## 🚀 About me
 - 💻 Passionate about tech, development, and computer science
@@ -21,7 +21,7 @@ Hey! My name is **Darwin** 🧬
 
 ## 📫 Contact me
 If you want to talk, collaborate, or just chat:
-- GitHub: @Darwin
+- GitHub: @Bidulus
 
 ---
 
