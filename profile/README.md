@@ -16,11 +16,12 @@ Hey! My name is **Bidulus** 🧬
 
 ## ⚙️ Technologies I use (depending on projects)
 - Windows / Linux
-- JavaScript (Node JS), Python, C, C++
+- JavaScript (Node JS), Python (little), C, C++ (For Wii U/3DS System)
 - And other tools I’m currently exploring
 
 ## 📫 Contact me
 If you want to talk, collaborate, or just chat:
+- Email: kerallanmathis98@gmail.com
 - GitHub: @Bidulus
 
 ---
