@@ -46,15 +46,6 @@ I work with different technologies depending on the project:
 * Nginx
 * And whatever else I happen to be learning 👀
 
-## 📫 Get in Touch
-
-Feel free to reach out if you want to **talk, collaborate, or just say hi**!
-
-* 📧 **Email:** [kerallanmathis98@gmail.com](mailto:kerallanmathis98@gmail.com)
-* 🐙 **GitHub:** [@Bidulus](https://github.com/Bidulus)
-
----
-
 ⭐ **Thanks for stopping by!**
 
 *Keep learning. Keep building. Keep experimenting.*
