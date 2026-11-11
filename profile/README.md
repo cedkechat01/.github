@@ -30,6 +30,7 @@ I work with different technologies depending on the project:
 **Languages**
 
 * JavaScript / Node.js
+* Go *(basic)*
 * C / C++
 * Python *(basic)*
 
@@ -37,7 +38,7 @@ I work with different technologies depending on the project:
 
 * Windows
 * Linux
-* Wii U / Nintendo 3DS development
+* Nintendo Wii U / Nintendo 3DS development
 
 **Other**
 
